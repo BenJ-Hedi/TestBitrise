@@ -1,0 +1,16 @@
+PODS:
+  - SwiftInjection (0.8)
+
+DEPENDENCIES:
+  - SwiftInjection
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftInjection
+
+SPEC CHECKSUMS:
+  SwiftInjection: a6a6d624d603f109a6e3e7fdc65bd116d8760626
+
+PODFILE CHECKSUM: 4f9d90985d8ba3f6e647f5d33921355faa2fc517
+
+COCOAPODS: 1.5.3
